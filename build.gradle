@@ -1,8 +1,8 @@
 import net.fabricmc.loom.task.RemapJarTask
 
 plugins {
-    id 'fabric-loom' version '1.8-SNAPSHOT'
-    id 'io.github.ladysnake.chenille' version '0.14.0'
+    id 'fabric-loom' version '1.9-SNAPSHOT'
+    id 'io.github.ladysnake.chenille' version '0.15.0'
 }
 
 archivesBaseName = project.archives_base_name
